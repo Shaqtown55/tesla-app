@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030 that include Joy Orji.
+	           We are raising over 1m millionaires by 2030 that include Joy Orji and her friends.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. Joy is going to be rich in 2023. She will be earning $500k plus in 2023.</h1>
 <hr>
 <br>
