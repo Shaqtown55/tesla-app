@@ -6,7 +6,7 @@ node{
 	stage('2Test&Build'){
 		sh "${Maven_Home}/bin/mvn clean package"
 	}
-	/*
+	
 	stage('3CodeQuality'){
 		sh "${Maven_Home}/bin/mvn sonar:sonar"
 	}
@@ -31,5 +31,5 @@ node{
 Check Build Status
 JovizTech''', subject: 'build status', to: 'devopengineertest@gmail.com'
   }
-  */
+  
 }
